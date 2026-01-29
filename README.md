@@ -16,3 +16,7 @@ AlgebraicJulia: An Ecosystem of Software Based on Generalized Algebra and Catego
 
 I also love concert photography.
 
+![banner](IMG_7178.jpeg)
+*The pit at Lip Critic's June 24' show at the Subterranean in Chicago*
+*Portra 800 Pushes 1 Stop*
+
