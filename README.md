@@ -20,4 +20,4 @@ I also love concert photography.
 *The pit at Lip Critic's June 24' show at the Subterranean in Chicago*
 
 I am listening to...
-[![Spotify](https://spotify-now-playing-readme.vercel.app/api?user=christianscaff-us)](https://open.spotify.com/user/christianscaff-us)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=christianscaff-us&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=ff2600&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
