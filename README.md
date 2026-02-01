@@ -18,3 +18,6 @@ I also love concert photography.
 *Portra 800 Pushed 1 Stop*
 ![banner](IMG_7178.jpeg)
 *The pit at Lip Critic's June 24' show at the Subterranean in Chicago*
+
+I am listening to...
+[![Spotify](https://spotify-now-playing-readme.vercel.app/api?user=christianscaff-us)](https://open.spotify.com/user/christianscaff-us)
