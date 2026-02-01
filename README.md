@@ -22,4 +22,8 @@ I also love concert photography.
 I am currently listening to...
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=christianscaff-us&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=ff2600&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=christianscaff-us&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=ff2600&bar_color_cover=true" alt="spotify-github-profile">
+  </a>
+</p>
