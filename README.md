@@ -1,7 +1,7 @@
 # Christian Scaff (*λPL. love PL*)
 ## I like to compute on the occasion. 
 
-Hello! My name is Christian, and I am a Master's student at Columbia University, studying Computer Science. My research (as of now) primarily focuses on compilers, software systems, and neuro-symbolic AI.
+Hello! My name is Christian, and I am a Master's student at Columbia University, studying computer science. My research (as of now) primarily focuses on compilers, software systems, and neuro-symbolic AI.
 
 My open-source contributions are as follows:
 
