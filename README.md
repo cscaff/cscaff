@@ -14,6 +14,7 @@ AlgebraicJulia: An Ecosystem of Software Based on Generalized Algebra and Catego
    4. [DiagrammaticEquations.jl](https://github.com/AlgebraicJulia/DiagrammaticEquations.jl)
 
 I also love concert photography.
+[🎞️ Photography Portfolio](https://christianscaff.com)
 
 *Portra 800 Pushed 1 Stop*
 ![banner](IMG_7178.jpeg)
