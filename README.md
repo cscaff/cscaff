@@ -6,7 +6,6 @@ Hello! My name is Christian, and I am a Master's student at Columbia University,
 I am currently working on:
 1. Open-source SAT hardware acceleration.
 2. Compiler Optimization Verification.
-3. Drinking Diet Coke and eating Pretzel M&M's. 
 
 My open-source contributions are as follows:
 
