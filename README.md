@@ -4,7 +4,7 @@
 Hello! My name is Christian, and I am a Master's student at Columbia University, studying computer science. My research (as of now) primarily focuses on compilers, software systems, and neuro-symbolic AI.
 
 I am currently working on:
-1. Open-source SAT hardware acceleration.
+1. Open-Source SAT Hardware Acceleration.
 2. Compiler Optimization Verification.
 
 My open-source contributions are as follows:
