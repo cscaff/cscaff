@@ -20,6 +20,7 @@ AlgebraicJulia: An Ecosystem of Software Based on Generalized Algebra and Catego
 
 ### You can find my full CV [here](Christian_Scaff_CV_2026.pdf).
 
+---
 I also love concert photography.
 
 [🎞️ Check out my work here.](https://christianscaff.com)
