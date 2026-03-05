@@ -25,7 +25,7 @@ Hello! I'm a Master's student at Columbia University studying computer science. 
 
 ---
 
-I also love concert photography. [Check out my work here.](https://christianscaff.com)
+<p align="center">I also love concert photography. <a href="https://christianscaff.com">Check out my work here 🎞️.</a></p>
 
 <p align="center">
   <em>Portra 800 Pushed 1 Stop</em><br>
