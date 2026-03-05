@@ -5,7 +5,7 @@ Hello! I'm a Master's student at Columbia University studying computer science. 
 
 **Currently working on:**
 1. Open-Source SAT Hardware Acceleration
-2. Compiler Optimization Verification
+2. Compiler Optimization Verification via Bounded Model Checking
 
 ---
 
