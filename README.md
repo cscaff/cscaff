@@ -1,34 +1,39 @@
 # Christian Scaff (*λPL. love PL*)
-## I like to compute on the occasion. 
+## I like to compute on the occasion.
 
-Hello! My name is Christian, and I am a Master's student at Columbia University, studying computer science. My research (as of now) primarily focuses on systems and neuro-symbolic AI.
+Hello! I'm a Master's student at Columbia University studying computer science. My research focuses on systems and neuro-symbolic AI.
 
-I am currently working on:
-1. Open-Source SAT Hardware Acceleration.
-2. Compiler Optimization Verification.
-
-My open-source contributions are as follows:
-
-[Wyvern Graph](https://github.com/cscaff/Wyvern-Graph): An LLVM IR to Knowledge Graph Translator.
-
-AlgebraicJulia: An Ecosystem of Software Based on Generalized Algebra and Category Theory in Julia.
-   1. [ACSets.jl](https://github.com/AlgebraicJulia/ACSets.jl)
-   2. [AlgebraicOptimization.jl](https://github.com/AlgebraicJulia/AlgebraicOptimization.jl)
-   3. [Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-   4. [DiagrammaticEquations.jl](https://github.com/AlgebraicJulia/DiagrammaticEquations.jl)
-
-
-### You can find my full CV [here](Christian_Scaff_CV_2026.pdf).
+**Currently working on:**
+1. Open-Source SAT Hardware Acceleration
+2. Compiler Optimization Verification
 
 ---
-I also love concert photography.
 
-[🎞️ Check out my work here.](https://christianscaff.com)
+**Open-Source Contributions:**
 
-*Portra 800 Pushed 1 Stop*
-![banner](IMG_7178.jpeg)
-*Lip Critic's June 24' show at the Subterranean in Chicago*
+[Wyvern Graph](https://github.com/cscaff/Wyvern-Graph) — An LLVM IR to Knowledge Graph Translator.
 
+[AlgebraicJulia](https://github.com/AlgebraicJulia) — An ecosystem of software based on generalized algebra and category theory in Julia.
+- [ACSets.jl](https://github.com/AlgebraicJulia/ACSets.jl)
+- [AlgebraicOptimization.jl](https://github.com/AlgebraicJulia/AlgebraicOptimization.jl)
+- [Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+- [DiagrammaticEquations.jl](https://github.com/AlgebraicJulia/DiagrammaticEquations.jl)
+
+---
+
+**CV:** [Christian_Scaff_CV_2026.pdf](Christian_Scaff_CV_2026.pdf)
+
+---
+
+I also love concert photography. [Check out my work here.](https://christianscaff.com)
+
+<p align="center">
+  <em>Portra 800 Pushed 1 Stop</em><br>
+  <img src="IMG_7178.jpeg" width="80%" alt="Lip Critic concert photo"><br>
+  <em>Lip Critic's June '24 show at the Subterranean in Chicago</em>
+</p>
+
+---
 
 <p align="center">
 <b>🎧 Currently Listening to...</b><br>
