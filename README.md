@@ -17,6 +17,8 @@ AlgebraicJulia: An Ecosystem of Software Based on Generalized Algebra and Catego
    3. [Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
    4. [DiagrammaticEquations.jl](https://github.com/AlgebraicJulia/DiagrammaticEquations.jl)
 
+You can find my full CV [here](Christian_Scaff_CV_2026.pdf).
+
 I also love concert photography.
 
 [🎞️ Check out my work here.](https://christianscaff.com)
