@@ -50,8 +50,6 @@ Hello! I'm a Master's student at Columbia University studying computer science. 
 
 
 <p align="center">
-  <b>🎧 Currently Listening to...</b><br>
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=christianscaff-us&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=ff2600&bar_color_cover=true" alt="spotify-github-profile" width="80%">
-  </a>
+  <a href="https://github.com/kittinan/spotify-github-profile"><b>🎧 Currently Listening to...</b></a><br>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=christianscaff-us&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=ff2600&bar_color_cover=true" alt="spotify-github-profile" width="80%">
 </p>
