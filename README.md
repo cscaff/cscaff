@@ -8,8 +8,9 @@ Hello! I'm a Master's student at Columbia University studying computer science. 
 2. Compiler Optimization Verification via Bounded Model Checking
 
 **Past Research Contributions:**
-1. [Mining Beyond the Bools: Learning Data Transformations and Temporal Specifications](https://arxiv.org/abs/2603.06710)
-   *Sam Nicholas Kouteili, William Fishell, Christian Scaff, Mark Santolucito, Ruzica Piskac*
+
+[Mining Beyond the Bools: Learning Data Transformations and Temporal Specifications](https://arxiv.org/abs/2603.06710)
+*Sam Nicholas Kouteili, William Fishell, Christian Scaff, Mark Santolucito, Ruzica Piskac*
 
 **Open-Source Contributions:**
 
