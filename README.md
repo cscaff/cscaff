@@ -1,11 +1,10 @@
 # Christian Scaff (*λPL. love PL*)
 ## I like to compute on the occasion.
 
-Hello! I'm a Master's student at Columbia University studying computer science. My research focuses on systems and neuro-symbolic AI.
+Hello! I'm a Master's student at Columbia University studying computer science. My research focuses on formal methods and neuro-symbolic AI.
 
 **Currently working on:**
-1. Open-Source SAT Hardware Acceleration
-2. Compiler Optimization Verification via Bounded Model Checking
+1. Working on making FPGA engineering more accessible for software people like myself.
 
 **Past Research Contributions:**
 
