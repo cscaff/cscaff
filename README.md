@@ -17,6 +17,8 @@ Hello! I'm a Master's student at Columbia University studying computer science. 
 
 **Open-Source Contributions:**
 
+[Manhattan Reasoning Gym](https://github.com/ManhattanReasoning) — Accessible Cloud Compute for Agentic RTL Development.
+
 [Wyvern Graph](https://github.com/cscaff/Wyvern-Graph) — An LLVM IR to Knowledge Graph Translator.
 
 [AlgebraicJulia](https://github.com/AlgebraicJulia) — An ecosystem of software based on generalized algebra and category theory in Julia.
