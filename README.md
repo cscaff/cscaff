@@ -9,11 +9,11 @@ Hello! I'm a Master's student at Columbia University studying computer science. 
 **Past Research Contributions:**
 
 [PALS: Preference-guided Active Automata Learning for Symbolic Reinforcement Learning in Games](https://openreview.net/forum?id=jRUJpASPQJ&referrer=%5Bthe%20profile%20of%20Christian%20Scaff%5D(%2Fprofile%3Fid%3D~Christian_Scaff1))
-*William Fishell, Christian Scaff, Sam Nicholas Kouteili, Mark Santolucito* (ICML 2026 Workshop) 
+*William Fishell, Christian Scaff, Sam Nicholas Kouteili, Mark Santolucito* **(ICML 2026 Workshop)**
 
 
 [Mining Beyond the Bools: Learning Data Transformations and Temporal Specifications](https://arxiv.org/abs/2603.06710)
-*Sam Nicholas Kouteili, William Fishell, Christian Scaff, Mark Santolucito, Ruzica Piskac* (Under Submission at ESOP)
+*Sam Nicholas Kouteili, William Fishell, Christian Scaff, Mark Santolucito, Ruzica Piskac* **(Under Submission at ESOP 2027)**
 
 **Open-Source Contributions:**
 
