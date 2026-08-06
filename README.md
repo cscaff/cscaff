@@ -16,7 +16,7 @@ Hello! I'm a Master's student at Columbia University studying computer science. 
 
 **Open-Source Contributions:**
 
-[Manhattan Reasoning Gym](https://manhattanreasoning.com/#top) — Accessible Cloud Compute for Agentic RTL Development.
+[Manhattan Reasoning Gym](https://docs.manhattanreasoning.com) — Accessible Cloud Compute for Agentic RTL Development.
 
 [Wyvern Graph](https://github.com/cscaff/Wyvern-Graph) — An LLVM IR to Knowledge Graph Translator.
 
