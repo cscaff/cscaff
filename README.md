@@ -13,7 +13,7 @@ Hello! I'm a Master's student at Columbia University studying computer science. 
 
 
 [Mining Beyond the Bools: Learning Data Transformations and Temporal Specifications](https://arxiv.org/abs/2603.06710)
-*Sam Nicholas Kouteili, William Fishell, Christian Scaff, Mark Santolucito, Ruzica Piskac* **(Under Submission at ESOP 2027)**
+*Sam Nicholas Kouteili, William Fishell, Christian Scaff, Mark Santolucito, Ruzica Piskac* **(ESOP 2027)**
 
 **Open-Source Contributions:**
 
