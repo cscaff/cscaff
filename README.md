@@ -3,7 +3,7 @@
 
 Hello! I'm an M.S. Computer Science student at Columbia University in the Formal Methods and Reasoning Group (FoRG), advised by Prof. Mark Santolucito. My research sits at the intersection of formal methods, AI, and hardware design. Lately I've been making hardware engineering more accessible through cloud computing and agentic AI, so researchers can explore hardware acceleration.
 
-**I graduate in December 2026 and I'm looking for full-time research engineer roles at AI labs and startups.** If your team works on formal methods, automated reasoning, or the hardware underneath AI systems, I'd love to hear from you: [christian.scaff@columbia.edu](mailto:christian.scaff@columbia.edu) · [LinkedIn](https://www.linkedin.com/in/christian-scaff/)
+**I graduate in December 2026 and I'm looking for full-time research engineer roles at industry labs, AI labs, and startups.** If your team works on formal methods, automated reasoning, or the hardware underneath AI systems, I'd love to hear from you: [christian.scaff@columbia.edu](mailto:christian.scaff@columbia.edu) · [LinkedIn](https://www.linkedin.com/in/christian-scaff/)
 
 **Currently working on:**
 1. **Research Lead, [Manhattan Reasoning](https://manhattanreasoning.com/research.html):** leading a ten-person student team building an open-source cloud FPGA platform that runs designs on real silicon from Python, with a public beta planned for December 2026. You can read the research agenda [here](https://manhattanreasoning.com/research.html).
